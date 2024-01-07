@@ -1,9 +1,9 @@
 # To-do-list
-A to-do-list for the task which you want to do and simply add click on complete the task and remove the task
+A Responsive to-do-list for the task which you want to do and simply add click on complete the task and remove the task
 This project is a simple yet effective to-do list created using HTML and CSS. It allows users to add, delete, and mark tasks as complete. It's a beginner-friendly project aimed at demonstrating fundamental web development skills. Feel free to clone or fork this repository to explore and expand upon this to-do list project!
 
 Overview: add task, delete task, tick the completed task with beautiful userinterface.
-
+Responsive : Full responsiveness do not loose its look and feel on any device
 Technology stack: HTML, CSS and Javascript.
 Key features: adding, removing, and marking tasks as completed.
 Usage instructions:
