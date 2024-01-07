@@ -4,7 +4,7 @@ This project is a simple yet effective to-do list created using HTML and CSS. It
 
 Overview: add task, delete task, tick the completed task with beautiful userinterface.
 
-Technology stack: HTML, CSS 
+Technology stack: HTML, CSS and Javascript.
 Key features: adding, removing, and marking tasks as completed.
 Usage instructions:
   1) Clone this projects with git/ github
